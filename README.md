@@ -1,4 +1,4 @@
-#go to index.js.
+# go to index.js.
 
 
-#run command node index.js
+# run command node index.js
