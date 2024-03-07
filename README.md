@@ -1,4 +1,4 @@
 #go to index.js.
 
 
-#run commnad nodemon start.
+#run command node index.js
