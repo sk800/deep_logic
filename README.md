@@ -1,2 +1,2 @@
-go to index.js
-run commnad nodemon start.
+#go to index.js.
+#run commnad nodemon start.
